@@ -9,7 +9,7 @@ This repository contains the work for **Experiment #1: Working with Python packa
 * **Name:** Karthik. V
 * **Reg No:** 3122235001064
 
-## Objectives
+## Tasks
 
 * Perform array manipulations and mathematical computing using **NumPy**.
 * Implement data preprocessing and analysis using **Pandas**.
