@@ -43,8 +43,6 @@ This repository contains the implementation and analysis for **Experiment #2: Bi
 
 ## Dependencies
 
-The implementation requires the following Python libraries:
-
 * `pandas` (Data manipulation)
 * `scikit-learn` (ML algorithms, preprocessing, and metrics)
 * `matplotlib` & `seaborn` (Visualization)

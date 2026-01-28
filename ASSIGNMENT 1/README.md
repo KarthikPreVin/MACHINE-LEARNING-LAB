@@ -55,8 +55,6 @@ This repository contains the work for **Experiment #1: Working with Python packa
 
 ## Dependencies
 
-The following Python libraries are required to run the notebook:
-
 * `pandas`
 * `matplotlib`
 * `seaborn`
